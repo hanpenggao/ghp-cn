@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "张金币"
-  avatar           : "jinbi.png"
+  avatar           : "images/jinbi.png"
   bio              : "安徽大学"
   location         : "安徽 合肥"
   employer         : 
