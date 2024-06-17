@@ -31,7 +31,7 @@ redirect_from:
 - *2021.07 - 2023.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> 北京大学 数学科学学院, 博士后（合作导师：张继平教授）
 - *2015.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> 首都师范大学 数学科学学院, 硕博连读（导师：惠昌常教授）
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-lw'></span>
 
 # 📝 论文
 
