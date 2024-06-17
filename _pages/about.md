@@ -47,14 +47,14 @@ Algebra 609 (2022) 688-717.
 <span class='anchor' id='-zjlf'></span>
 
 # 💬 专家来访
-- 2024年06月30日，曹培根，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-曹培根.pdf)
-- 2024年06月30日，黄  敏，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-黄敏.pdf)
-- 2024年06月30日，周潘岳，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-周潘岳.pdf)
+- *2024.06.30*，曹培根，[[详见]](/pdf/20240630-报告海报-曹培根.pdf)
+- *2024.06.30*，黄  敏，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-黄敏.pdf)
+- *2024.06.30*，周潘岳，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-周潘岳.pdf)
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议💬
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
+# 🏛️ 学术会议
+- *2024.05*, 代数表示论研讨会, 安徽合肥, [[新闻]](https://doi.org/10.1016/j.jalgebra.2022.06.037).
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
