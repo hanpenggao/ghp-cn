@@ -47,20 +47,24 @@ Algebra 609 (2022) 688-717.
 <span class='anchor' id='-zjlf'></span>
 
 # 💬 专家来访
-- *2024.06.30*，曹培根，[[详见]](/pdf/20240630-报告海报-曹培根.pdf)
-- *2024.06.30*，黄  敏，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-黄敏.pdf)
-- *2024.06.30*，周潘岳，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-周潘岳.pdf)
+- *2024.06.30*，曹培根，[[详见]](/pdf/20240630-报告海报-曹培根.pdf).
+- *2024.06.30*，黄敏，[[详见]](/pdf/20240630-报告海报-黄敏.pdf).
+- *2024.06.30*，周潘岳，[[详见]](/pdf/20240630-报告海报-周潘岳.pdf).
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2024.05*, 代数表示论研讨会, 安徽合肥, [[新闻]](https://doi.org/10.1016/j.jalgebra.2022.06.037).
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
-- *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
+- *2024.05*, 代数表示论研讨会, 安徽合肥, [[会议手册]](/pdf/20240517-代数表示论研讨会-会议手册)[[新闻]](https://math.ahu.edu.cn/2024/0522/c10804a340700/page.htm).
 
 <span class='anchor' id='-bg'></span>
 
 # 💻 报告
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2023.09.26*, Extension dimensions: derived equivalences and stable equivalences-北京师范大学(北京)
+- *2023.05.05*, The left-right symmetry of finite delooping level-中国科学技术大学(合肥)
+- *2023.05.04*, New invariants of stable equivalences of algebras-安徽大学(合肥)
+- *2023.04.02*, Centralizer matrix algebras-第五届代数与表示论前沿进展研讨会(北京)
+- *2022.11.28*, Homological characterizations of centralizer matrix algebras-江苏理工学院(常州)
+- *2022.11.11*, Extension dimensions: derived equivalences and stable equivalences-首都师范大学(北京)
+- *2022.07.29*, Homological features of centralizer matrix algebras-导出范畴与Gorenstein同调理论专题讲习班(常州)
+- *2022.07.01*, Centralizer matrix rings and Frobenius extensions-第二十二届全国代数表示论会议(峨眉山)
+- *2021.06.21*, Structure of principal centralizer matrix algebras-第六届全国环与代数学术研讨会(达州)
