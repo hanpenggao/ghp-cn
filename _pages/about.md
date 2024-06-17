@@ -26,14 +26,14 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历与工作经历
+# 🎓 学习与工作经历
 - *2021.07 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> 安徽大学 数学科学学院, 讲师
 - *2021.07 - 2023.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> 北京大学 数学科学学院, 博士后（合作导师：张继平教授）
 - *2015.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> 首都师范大学 数学科学学院, 硕博连读（导师：惠昌常教授）
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 发表论文
+# 📝 论文
 
 - C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Preprint, arXiv:2207.10848, 1-20.
 [[HTML]](https://arxiv.org/abs/2207.10848)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/04.pdf)[[PDF]](/pdf/04.pdf)
@@ -45,26 +45,20 @@ Algebra 609 (2022) 688-717.
 - C. C. Xi and J. B. Zhang, Structures of centralizer algebras. Linear Algebra and its Applications 622 (2021) 215-249.
 [[HTML]](https://doi.org/10.1016/j.laa.2021.03.034)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/01.pdf)[[PDF]](/pdf/01.pdf)
 
+<span class='anchor' id='-zjlf'></span>
 
-
-
-<span class='anchor' id='-ryjx'></span>
-
-# 🏅 荣誉奖项
-- *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
-- *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
+# 💬 专家来访
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ 学术会议💬
 - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-bg'></span>
 
-# 💻 工作实习
+# 💻 报告
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
