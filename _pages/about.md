@@ -34,7 +34,6 @@ redirect_from:
 <span class='anchor' id='-xslw'></span>
 
 # 📝 论文
-
 - C. C. Xi and J. B. Zhang, New invariants of stable equivalences of algebras. Preprint, arXiv:2207.10848, 1-20.
 [[HTML]](https://arxiv.org/abs/2207.10848)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/04.pdf)[[PDF]](/pdf/04.pdf)
 - J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
@@ -48,6 +47,9 @@ Algebra 609 (2022) 688-717.
 <span class='anchor' id='-zjlf'></span>
 
 # 💬 专家来访
+- 2024年06月30日，曹培根，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-曹培根.pdf)
+- 2024年06月30日，黄  敏，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-黄敏.pdf)
+- 2024年06月30日，周潘岳，[[详见]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/20240630-报告海报-周潘岳.pdf)
 
 <span class='anchor' id='-xshy'></span>
 
