@@ -59,12 +59,13 @@ Algebra 609 (2022) 688-717.
 <span class='anchor' id='-bg'></span>
 
 # 💻 报告
-- *2023.09.26*, Extension dimensions: derived equivalences and stable equivalences-北京师范大学(北京)
-- *2023.05.05*, The left-right symmetry of finite delooping level-中国科学技术大学(合肥)
-- *2023.05.04*, New invariants of stable equivalences of algebras-安徽大学(合肥)
-- *2023.04.02*, Centralizer matrix algebras-第五届代数与表示论前沿进展研讨会(北京)
-- *2022.11.28*, Homological characterizations of centralizer matrix algebras-江苏理工学院(常州)
-- *2022.11.11*, Extension dimensions: derived equivalences and stable equivalences-首都师范大学(北京)
-- *2022.07.29*, Homological features of centralizer matrix algebras-导出范畴与Gorenstein同调理论专题讲习班(常州)
-- *2022.07.01*, Centralizer matrix rings and Frobenius extensions-第二十二届全国代数表示论会议(峨眉山)
-- *2021.06.21*, Structure of principal centralizer matrix algebras-第六届全国环与代数学术研讨会(达州)
+- *2023.12.25*, New invariants of stable equivalences of algebras, 华东师范大学(上海).
+- *2023.09.26*, Extension dimensions: derived equivalences and stable equivalences，北京师范大学(北京).
+- *2023.05.05*, The left-right symmetry of finite delooping level，中国科学技术大学(合肥).
+- *2023.05.04*, New invariants of stable equivalences of algebras，安徽大学(合肥).
+- *2023.04.02*, Centralizer matrix algebras，第五届代数与表示论前沿进展研讨会(北京).
+- *2022.11.28*, Homological characterizations of centralizer matrix algebras，江苏理工学院(常州).
+- *2022.11.11*, Extension dimensions: derived equivalences and stable equivalences，首都师范大学(北京).
+- *2022.07.29*, Homological features of centralizer matrix algebras，导出范畴与Gorenstein同调理论专题讲习班(常州).
+- *2022.07.01*, Centralizer matrix rings and Frobenius extensions，第二十二届全国代数表示论会议(峨眉山).
+- *2021.06.21*, Structure of principal centralizer matrix algebras，第六届全国环与代数学术研讨会(达州).
