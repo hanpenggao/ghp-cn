@@ -54,7 +54,12 @@ Algebra 609 (2022) 688-717.
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2024.05*, 代数表示论研讨会, 安徽合肥, [[会议手册]](/pdf/20240517-代数表示论研讨会-会议手册)[[新闻]](https://math.ahu.edu.cn/2024/0522/c10804a340700/page.htm).
+- *2024.05*, 代数表示论研讨会, 安徽大学，安徽合肥, [[会议手册]](/pdf/20240517-代数表示论研讨会-会议手册)[[新闻]](https://math.ahu.edu.cn/2024/0522/c10804a340700/page.htm).
+- *2024.05*, 2024年同调与表示论学术论坛, 合肥工业大学，安徽合肥.
+- *2024.04*, 2024模范畴与Gorenstein同调及相关理论研讨, 杭州师范大学，浙江杭州.
+- *2024.03*, 2024代数学前沿珞珈论坛, 武汉大学，湖北武汉.
+- *2024.01*, 代数与表示论国际研讨会, 华东师范大学，上海.
+- *2023.12*, Workshop on Algebras and Representation Theory，中国科学技术大学，安徽合肥.
 
 <span class='anchor' id='-bg'></span>
 
@@ -63,7 +68,7 @@ Algebra 609 (2022) 688-717.
 - *2023.09.26*, Extension dimensions: derived equivalences and stable equivalences，北京师范大学(北京).
 - *2023.05.05*, The left-right symmetry of finite delooping level，中国科学技术大学(合肥).
 - *2023.05.04*, New invariants of stable equivalences of algebras，安徽大学(合肥).
-- *2023.04.02*, Centralizer matrix algebras，第五届代数与表示论前沿进展研讨会(北京).
+- *2023.04.02*, Centralizer matrix algebras，第五届代数与表示论前沿进展研讨会(北京), [[会议海报]](https://www.wemath.cn/conference/index.php?id=rep5)[[会议主页]](https://www.wemath.cn/conference/schedule.php?id=rep5)[[会议手册]](https://math.cnu.edu.cn/docs/2023-04/30a27ad4ff904ff09ada4e08f70ba69a.pdf).
 - *2022.11.28*, Homological characterizations of centralizer matrix algebras，江苏理工学院(常州).
 - *2022.11.11*, Extension dimensions: derived equivalences and stable equivalences，首都师范大学(北京).
 - *2022.07.29*, Homological features of centralizer matrix algebras，导出范畴与Gorenstein同调理论专题讲习班(常州).
