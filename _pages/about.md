@@ -32,7 +32,7 @@ redirect_from:
 <span class='anchor' id='-xslw'></span>
 
 # 📝 论文
-- H. Gao, Semibircks over split-by-nilpotent extensions. Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)[Preview]](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2021-7.pdf)[[PDF]](/pdf/2021-7.pdf) 
+- H. Gao, Semibircks over split-by-nilpotent extensions. Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)[[Preview]](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2021-7.pdf)[[PDF]](/pdf/2021-7.pdf) 
   
 - J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
 [[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/03.pdf)[[PDF]](/pdf/03.pdf)
