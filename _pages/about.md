@@ -33,6 +33,7 @@ redirect_from:
 
 # 📝 论文
 - H. Gao, [](https://github.com/hanpenggao/hanpenggao.github.io/blob/main/pdf/2021-7.pdf)[Semibircks over split-by-nilpotent extensions](/pdf/2021-7.pdf) Bull. Korean Math. Soc.58(1) (2021), 183-193.[[HTML]](https://doi.org/10.4134/BKMS.b200189)
+  
 - J. B. Zhang and J. L. Zheng, Extension dimensions of derived and stable equivalent algebras. Journal of Algebra 646 (2024) 17-48.
 [[HTML]](https://doi.org/10.1016/j.jalgebra.2024.01.035)[[Preview]](https://github.com/ZhangJinBi/zhangjinbi.github.io/blob/main/pdf/03.pdf)[[PDF]](/pdf/03.pdf)
 - C. C. Xi and J. B. Zhang, Centralizer matrix algebras and symmetric polynomials of partitions. Journal of 
