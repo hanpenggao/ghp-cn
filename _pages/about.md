@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-博士毕业于首都师范大学，导师是惠昌常教授。现在是安徽大学数学科学学院讲师。
+博士毕业于南京大学，导师是黄兆泳教授。现在是安徽大学数学科学学院讲师。
 
 研究方向：代数表示论
 
@@ -25,9 +25,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学习与工作经历
-- *2021.07 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> 安徽大学 数学科学学院, 讲师
-- *2021.07 - 2023.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> 北京大学 数学科学学院, 博士后（合作导师：张继平教授）
-- *2015.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> 首都师范大学 数学科学学院, 硕博连读（导师：惠昌常教授）
+- *2021.09 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> 安徽大学 数学科学学院, 讲师
+- *2019.09 - 2020.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> 康涅狄格大学 csc访问学者（合作导师：Ralf Schiffler 教授）
+- *2017.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> 南京大学 数学系, 博士（导师：黄兆泳教授）
  
 <span class='anchor' id='-xslw'></span>
 
@@ -55,20 +55,9 @@ Algebra 609 (2022) 688-717.
 - *2024.05*, 代数表示论研讨会, 安徽大学，安徽合肥, [[会议手册]](/pdf/20240517-代数表示论研讨会-会议手册)[[新闻]](https://math.ahu.edu.cn/2024/0522/c10804a340700/page.htm).
 - *2024.05*, 同调与表示论学术论坛, 合肥工业大学，安徽合肥.
 - *2024.04*, 模范畴与Gorenstein同调及相关理论研讨, 杭州师范大学，浙江杭州.
-- *2024.03*, 代数学前沿珞珈论坛, 武汉大学，湖北武汉.
-- *2024.01*, 代数与表示论国际研讨会, 华东师范大学，上海.
 - *2023.12*, Workshop on Algebras and Representation Theory，中国科学技术大学，安徽合肥.
 
 <span class='anchor' id='-bg'></span>
 
 # 💻 报告
-- *2023.12.25*, New invariants of stable equivalences of algebras, 华东师范大学(上海).
-- *2023.09.26*, Extension dimensions: derived equivalences and stable equivalences，北京师范大学(北京).
-- *2023.05.05*, The left-right symmetry of finite delooping level，中国科学技术大学(合肥).
-- *2023.05.04*, New invariants of stable equivalences of algebras，安徽大学(合肥).
-- *2023.04.02*, Centralizer matrix algebras，第五届代数与表示论前沿进展研讨会(北京), [[会议海报]](https://www.wemath.cn/conference/index.php?id=rep5)[[会议主页]](https://www.wemath.cn/conference/schedule.php?id=rep5)[[会议手册]](https://math.cnu.edu.cn/docs/2023-04/30a27ad4ff904ff09ada4e08f70ba69a.pdf).
-- *2022.11.28*, Homological characterizations of centralizer matrix algebras，江苏理工学院(常州).
-- *2022.11.11*, Extension dimensions: derived equivalences and stable equivalences，首都师范大学(北京).
-- *2022.07.29*, Homological features of centralizer matrix algebras，导出范畴与Gorenstein同调理论专题讲习班(常州).
-- *2022.07.01*, Centralizer matrix rings and Frobenius extensions，第二十二届全国代数表示论会议(峨眉山).
-- *2021.06.21*, Structure of principal centralizer matrix algebras，第六届全国环与代数学术研讨会(达州).
+
