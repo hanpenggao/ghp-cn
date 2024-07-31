@@ -26,8 +26,8 @@ redirect_from:
 
 # 🎓 学习与工作经历
 - *2021.09 - 至今*, <a href="https://www.ahu.edu.cn/"><img class="svg" src="/images/ahu_logo.png" width="23pt"></a> 安徽大学 数学科学学院, 讲师
-- *2019.09 - 2020.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/pku_logo.png" width="23pt"></a> 康涅狄格大学 csc访问学者（合作导师：Ralf Schiffler 教授）
-- *2017.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/cnu_logo.png" width="20pt"></a> 南京大学 数学系, 博士（导师：黄兆泳教授）
+- *2019.09 - 2020.12*, <a href="https://www.pku.edu.cn/"><img class="svg" src="/images/uconn.png" width="23pt"></a> 康涅狄格大学 csc访问学者（合作导师：Ralf Schiffler 教授）
+- *2017.09 - 2021.06*, <a href="https://www.cnu.edu.cn/"><img class="svg" src="/images/nju.png" width="20pt"></a> 南京大学 数学系, 博士（导师：黄兆泳教授）
  
 <span class='anchor' id='-xslw'></span>
 
