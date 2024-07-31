@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "张金币"
+title                    : "高汉鹏"
 description              : "代数表示论"
-url                      : "https://zhangjinbi.github.io"
+url                      : "https://hanpenggao.github.io"
 baseurl                  : ""
-repository               : "ZhangJinBi/zhangjinbi.github.io"
+repository               : "hanpenggao/hanpenggao.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -23,14 +23,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "张金币"
-  avatar           : "images/jinbi.png"
+  name             : "高汉鹏"
+  avatar           : "images/hanpeng2.png"
   bio              : "安徽大学"
   location         : "安徽 合肥"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "zhangjb@ahu.edu.cn"
+  email            : "hpgao@ahu.edu.cn"
   researchgate     : 
   uri              : 
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhangJinBi"
+  github           : "hanpenggao"
   google_plus      :
   keybase          :
   instagram        :
@@ -47,7 +47,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : "https://orcid.org/0000-0001-7025-4653"
+  orcid            : "https://orcid.org/0000-0001-7002-4153"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
